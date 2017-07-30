@@ -4,6 +4,7 @@ import java.math.BigInteger;
 
 /**
  * Created by Onur Ertugral on 30.07.2017.
+ * This program finds the sum of the digits of the number 2^1000
  */
 public class PowerSumProduct {
     public static void main(String[] args) {
