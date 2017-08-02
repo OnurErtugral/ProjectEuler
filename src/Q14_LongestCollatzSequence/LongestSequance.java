@@ -1,8 +1,5 @@
 package Q14_LongestCollatzSequence;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * Created by Onur Ertugral on 30.07.2017.
  * This program finds the number Which is under one million and  produces the longest Collatz chain?
