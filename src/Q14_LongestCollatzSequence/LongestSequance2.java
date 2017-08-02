@@ -43,6 +43,7 @@ public class LongestSequance2 {
             if (!hashMap.containsKey(i)) {
                 hashMap.put((long)i, (long)(sequance - 1));
             }
+
             System.out.printf("\n");
             chain[i] = sequance;
             if (sequance > max)
