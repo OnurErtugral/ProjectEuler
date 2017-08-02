@@ -28,8 +28,6 @@ public class LongestSequance {
                     continue;
                 }
             }
-
-            System.out.printf("\n");
             chain[i] = sequance;
             if (sequance > max)
                 max = sequance;
