@@ -25,6 +25,7 @@ public class LongestSequance {
                     continue;
                 }
             }
+            System.out.println();
             chain[i] = sequance;
             if (sequance > max)
                 max = sequance;
