@@ -15,6 +15,7 @@ public class LongestSequance {
             long n = i;
             int sequance = 1;
             System.out.printf("%d: %d ", i, n);
+
             while (n > 1) {
                 if (n % 2 == 0) {
                     sequance++;
